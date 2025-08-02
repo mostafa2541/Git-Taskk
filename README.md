@@ -20,18 +20,18 @@
    git clone https://github.com/your-username/project-name.git
    ```
 3. Create a new branch to work on:
-  ```bash
-  git checkout -b my-feature
-  ```
+   ```bash
+   git checkout -b my-feature
+   ```
 4. Make your changes, then commit them:
-  ```bash
-  git add .
-  git commit -m "Add: my feature or fix"
-  ```
+   ```bash
+   git add .
+   git commit -m "Add: my feature or fix"
+   ```
 5. Push your branch to your GitHub fork:
-  ```bash
-  git push origin my-feature
-  ```
+   ```bash
+   git push origin my-feature
+   ```
 6. Open a **Pull Request** on the original repository.
 
 
