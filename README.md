@@ -14,25 +14,25 @@
 
 ## 4. Describe the steps to contribute to an open-source project on GitHub?
 
-- **Fork** the project (make your own copy).
-- **Clone** it to your computer:
+1. **Fork** the project (make your own copy).
+2. **Clone** it to your computer:
    ```bash
    git clone https://github.com/your-username/project-name.git
    ```
-- Create a new branch to work on:
+3. Create a new branch to work on:
   ```bash
   git checkout -b my-feature
   ```
-- Make your changes, then commit them:
+4. Make your changes, then commit them:
   ```bash
   git add .
   git commit -m "Add: my feature or fix"
   ```
-- Push your branch to your GitHub fork:
+5. Push your branch to your GitHub fork:
   ```bash
   git push origin my-feature
   ```
-- Open a **Pull Request** on the original repository.
+6. Open a **Pull Request** on the original repository.
 
 
 
